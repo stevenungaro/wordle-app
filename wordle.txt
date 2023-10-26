@@ -1,0 +1,26 @@
+Decomposition of wordle game
+
+1. Write a program that stores an array of five-letter words
+
+1.1 Write a program that selects a random word from an array.
+
+2. Write a program that asks a user for a word, stores their answer, and prints it.
+
+3. Write a program that checks to see if a user-entered word matches a word and outputs right or wrong to the screen
+
+4. Write a program that prints each individual letter of a word.
+
+5. Write a program that prints a word with some of the letters hidden.
+
+6. Write a program that checks how many times a letter appears in a word.
+
+7. Write a program that will prompt the user for a word (up to 6 times) until they type the correct word.
+
+8. Write a program that compares two words and outputs any of the common letters between them.
+
+
+
+
+
+
+
