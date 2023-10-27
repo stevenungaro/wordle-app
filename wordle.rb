@@ -29,7 +29,8 @@ def assign_colors(word, answer)
     answer_array.each_index do |y|
       if word_array[x] == answer_array[y] && x == y
         word_display_array[x] = answer_array[y].on_green
-        answer_array[y] = ""
+        word_array[x] = "*"
+        answer_array[y] = "."
       end
     end
   end
@@ -42,7 +43,8 @@ def assign_colors(word, answer)
         if x == y
           word_display_array[x] = answer_array[y].on_green
         end
-        answer_array[y] = ""
+        word_array[x] = "*"
+        answer_array[y] = "."
       end
     end
   end
